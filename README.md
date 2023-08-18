@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunkerus
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning SpringFramework
+- 🌱 I’m currently learning Apache Kafka
 - 📫 How to reach me t.me/sunkerus || sunkerus@gmail.com || sunkerus@yandex.ru
 
 <!---
